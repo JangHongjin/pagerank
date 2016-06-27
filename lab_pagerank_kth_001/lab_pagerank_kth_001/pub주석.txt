@@ -1,0 +1,24 @@
+!
+1//이 pub(1)파일 내에 있는 pub 갯수
+//줄띄움 원랜 없음
+
+
+////각 pub 시작
+1//해당 pub의 index
+first pubname//논문이름
+2010//년도
+첫 논문 테스트용//overview 대부분 없음
+1//cite 갯수
+2//cite한 논문의 index (줄바꾸면서 반복됨) 여기선 하나니까 한줄
+0//cite inv 갯수
+//cite inv index list 여기선 0이라 없음 실제론 줄도 띄우면 안됨
+1//pa num 저자writer 숫자
+1//writer index
+1//pv num
+1//index
+2//keyword num
+1//keyword index 1
+3//keyword index 3
+-//줄띄움
+//pub의 끝 (파일 내 pub갯수만큼 반복)
+!//끝
