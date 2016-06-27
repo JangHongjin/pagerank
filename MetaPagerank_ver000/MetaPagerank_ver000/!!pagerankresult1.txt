@@ -1,0 +1,6 @@
+current index
+1
+currentweight
+14
+1
+-1
